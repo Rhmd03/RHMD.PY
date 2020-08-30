@@ -1,0 +1,9 @@
+print(RAHMAD.PYTHON)
+print(Selamat datang di tempat yang hampa ini)
+
+
+#mengambil input
+Nama = raw-input('Nama ')
+Umur = input('Umur ')
+#menampilkan output
+print 'Hello',Rahmad,'sekarang umur kamu',25,'tahun'
